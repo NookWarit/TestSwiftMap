@@ -1,4 +1,3 @@
-import Foundation
 protocol MainPresentationLogic {
     func presentGetDataSuccess(response: Main.FetchData.Response)
     func presentGetDataFail()

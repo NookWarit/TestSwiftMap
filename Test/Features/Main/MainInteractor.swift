@@ -1,4 +1,3 @@
-import Foundation
 protocol MainBusinessLogic {
     func getData()
 }

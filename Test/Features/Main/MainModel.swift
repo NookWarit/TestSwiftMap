@@ -1,5 +1,3 @@
-import Foundation
-
 enum Main {
     enum FetchData {
         struct Request {
